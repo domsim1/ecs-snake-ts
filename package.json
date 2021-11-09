@@ -1,0 +1,21 @@
+{
+  "name": "game-jam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "ape-ecs": "^1.3.1",
+    "pixi.js": "^6.2.0"
+  }
+}
